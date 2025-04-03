@@ -1,5 +1,3 @@
-![Header](https://pin.it/1xlqSnjXz)
-
 # 💖 Welcome to My Cozy Code Corner! 🎀
 > *"Turning ideas into beautiful code, one line at a time."*  
 
