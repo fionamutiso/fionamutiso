@@ -26,7 +26,7 @@
 ## ✨ GitHub Stats 🎀  
 
 ![Fii's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionamutiso&show_icons=true&theme=rose_pine)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fionamutiso&theme=rose_pine)
+
 
 🌸──────────────────────────────────🌸  
 
