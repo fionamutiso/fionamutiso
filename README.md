@@ -39,8 +39,8 @@
 🌸──────────────────────────────────🌸  
 
 ## 📫 Connect with Me 🎀  
-[![GitHub](https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fionamutiso)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=website&logoColor=white)](your-portfolio-link)  
+[![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fionakasoa0@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiona-kasoa-62636b349/) 
 
 🌸──────────────────────────────────🌸  
 
