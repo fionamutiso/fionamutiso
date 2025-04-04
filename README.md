@@ -1,4 +1,4 @@
-# 💖 Welcome to My Cozy Code Corner! 🎀
+# 🎀 Welcome to My Cozy Code Corner! 🎀
 > *"Turning ideas into beautiful code, one line at a time."*  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Fiona!;I+love+coding+and+creating!&color=FFB6C1&center=true&size=24)](https://git.io/typing-svg)
@@ -6,9 +6,9 @@
 🌸──────────────────────────────────🌸  
 
 ## 💻 About Me ✨  
-🌷 Frontend Developer | 🎀 React Enthusiast | 💡 Problem Solver  
+🌸 Frontend Developer | 🎀 React Enthusiast | 💡 Problem Solver  
 🌸 Passionate about **girly aesthetics & functional UI design**  
-💖 Currently building a **Payroll System** & working on my Portfolio **  
+🌸 Currently building a **Payroll System** & working on my Portfolio **  
 🌸 Tech Girly! ✨ 
 
 🌸──────────────────────────────────🌸  
@@ -31,7 +31,7 @@
 🌸──────────────────────────────────🌸  
 
 ## 📌 Featured Projects 💡  
-### [💖 Payroll System](https://github.com/fionamutiso/payroll-system) 🎀  
+### [🎀 Payroll System](https://github.com/fionamutiso/payroll-system) 🎀  
 - 🌸 Built with **React.js, SQL, and Express.js**
 - ✨ Features **employee management, salary calculation, and role-based access**
   
