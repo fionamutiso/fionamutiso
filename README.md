@@ -23,24 +23,10 @@
 
 🌸──────────────────────────────────🌸  
 
-## ✨ GitHub Stats 🎀  
-
-![Fii's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionamutiso&show_icons=true&theme=rose_pine)
-
-
-🌸──────────────────────────────────🌸  
-
-## 📌 Featured Projects 💡  
-### [🎀 Payroll System](https://github.com/fionamutiso/payroll-system) 🎀  
-- 🌸 Built with **React.js, SQL, and Express.js**
-- ✨ Features **employee management, salary calculation, and role-based access**
-  
-
-🌸──────────────────────────────────🌸  
 
 ## 📫 Connect with Me 🎀  
 [![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fionakasoa0@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiona-kasoa-62636b349/) 
+
 
 🌸──────────────────────────────────🌸  
 
