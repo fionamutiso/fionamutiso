@@ -1,33 +1,30 @@
-# 🎀 Welcome to My Cozy Code Corner! 🎀
-> *"Turning ideas into beautiful code, one line at a time."*  
+# 🖤🎀 Hi, I'm Fiona Mutiso
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Fiona!;I+love+coding+and+creating!&color=FFB6C1&center=true&size=24)](https://git.io/typing-svg)
+### 💻 Software Developer | Tech Enthusiast | Lifelong Learner
 
-🌸──────────────────────────────────🌸  
+I am a passionate software developer with experience in web development, mobile development, and database systems. I love building applications that solve real-world problems with elegant, intuitive design.
 
-## 💻 About Me ✨  
-🌸 Frontend Developer | 🎀 React Enthusiast | 💡 Problem Solver  
-🌸 Passionate about **girly aesthetics & functional UI design**  
-🌸 Currently building a **Payroll System** & working on my Portfolio **  
-🌸 Tech Girly! ✨ 
+- 🔭 Currently working on: **Full-stack projects using Laravel, Nuxt.js, and React.**
+- 🌱 Currently learning: **Advanced React patterns, API integration, and DevOps basics.**
+- 💡 Interested in: **Building scalable systems, software engineering internships, and UI/UX design.**
+- ✨ Fun fact: I love Marvel movies and always add a spark of creativity to my projects.
 
-🌸──────────────────────────────────🌸  
+## ⚙️ Tech Stack
 
-## 🔧 Tech Stack 🛠️  
+<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/PHP-1a1a1a?style=flat&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/Laravel-1a1a1a?style=flat&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/Nuxt.js-1a1a1a?style=flat&logo=nuxt.js&logoColor=00C58E"/>
+<img src="https://img.shields.io/badge/React-1a1a1a?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat&logo=tailwind-css&logoColor=38B2AC"/>
+<img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat&logo=mysql&logoColor=4479A1"/>
 
-![React](https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-ffb6c1?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=sqlite&logoColor=white)
+## 📫 Let's Connect
 
-🌸──────────────────────────────────🌸  
+- GitHub: [github.com/fionamutiso](https://github.com/fionamutiso)
+- LinkedIn: [linkedin.com/in/fiona-kasoa-62636b349](https://www.linkedin.com/in/fiona-kasoa-62636b349/)
+- Email: fionakasoa0@gmail.com
 
+---
 
-## 📫 Connect with Me 🎀  
-[![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fionakasoa0@gmail.com)  
-
-
-🌸──────────────────────────────────🌸  
-
-> *💻✨ "Crafting clean code with precision and passion."*
+⭐️ *Thank you for visiting my profile!* 🖤🎀
