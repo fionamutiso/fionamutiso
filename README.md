@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | Tech Enthusiast | Lifelong Learner
 
-I am a passionate software developer with experience in web development, mobile development, and database systems. I love building applications that solve real-world problems with elegant, intuitive design.
+I am a passionate software developer with experience in web development. I love building applications that solve real-world problems with elegant, intuitive design.
 
 - 🔭 Currently working on: **Full-stack projects using Laravel, Nuxt.js, and React.**
 - 🌱 Currently learning: **Advanced React patterns, API integration, and DevOps basics.**
